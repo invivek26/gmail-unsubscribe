@@ -24,6 +24,12 @@ Install the required Python packages using pip:
 pip install -r requirements.txt
 ```
 
+OR
+
+```sh
+pip3 install -r requirements.txt
+```
+
 ## Usage
 
 1. **Set up your credentials file**:
